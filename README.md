@@ -76,7 +76,4 @@ This project was created as a practical exercise to improve skills in:
 * NumPy
 * Matplotlib
 
-```
 
-**ملاحظة مهمة:** إلا كان `NetFlix.csv` كبير بزاف، من الأفضل نتأكدوا من الحجم قبل ما نرفعوه لـ GitHub. أما `.idea` فـ **ما نرفعوهاش**.
-```
